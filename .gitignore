@@ -30,3 +30,7 @@
 *.synctex.gz
 *.synctex.gz(busy)
 *.pdfsync
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/*
